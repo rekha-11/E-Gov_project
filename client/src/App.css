@@ -1,6 +1,31 @@
 *{
   box-sizing: border-box;
 }
+.logo{
+  float: left;
+  padding: 30px;
+}
+.first{
+  margin-top: 0px;
+  text-align: center;
+}
+.second{
+  text-align: center;
+
+}
+.third{
+  padding: 15px;
+}
+.forth{
+  padding-left: 10px;
+}
+
+.desc{
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 0px;
+  font-size: 20px;
+}
 
 body{
   background:#92bde7;
